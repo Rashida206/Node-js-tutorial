@@ -39,4 +39,4 @@ Node.js finds applications across various domains, owing to its flexibility, eff
 
 - [Official Node.js Website](https://nodejs.org/)
 - [Node.js GitHub Repository](https://github.com/nodejs/node)
-- - [Net Ninja Node js Tutorial ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+- [Net Ninja Node js Tutorial ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
